@@ -83,7 +83,7 @@ Contains full documentation with all diagrams and analysis steps.
 ### 🧱 Diagrams Included
 
 #### 1. AS-IS Process Flow
-![AS-IS Diagram](images/AS-IS-Diagram.jpg)  
+![AS-IS Diagram](images:./AS-IS-Diagram.jpg)  
 Shows the current manual process of Mubarak Products, highlighting inefficiencies.
 
 #### 2. TO-BE Process Flow
