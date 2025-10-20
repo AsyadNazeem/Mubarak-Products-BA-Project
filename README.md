@@ -80,6 +80,39 @@ Contains full documentation with all diagrams and analysis steps.
 
 ---
 
+### 🧱 Diagrams Included
+
+#### 1. AS-IS Process Flow
+![AS-IS Diagram](images/AS-IS-Diagram.jpg)  
+Shows the current manual process of Mubarak Products, highlighting inefficiencies.
+
+#### 2. TO-BE Process Flow
+![TO-BR Diagram](images/TO-BR-Diagram.jpg)  
+Illustrates the proposed automated process with digital order management.
+
+#### 3. ER Diagram
+![Mubarak ER diagram](images/Mubarak-ER-diagram.jpg)  
+Logical data model connecting products, orders, inventory, and customers.
+
+#### 4. UML Use Case Diagram
+![Mubarak UseCase](images/Mubarak-UseCase.jpg)  
+Shows user interactions with the system including admin, staff, and customers.
+
+#### 5. UML Activity Diagram
+![Activity Mubarak](images/Activity-Mubarak.jpg)  
+Represents workflows and sequences of actions for key business processes.
+
+#### 6. UML Class Diagram
+![Mubarak uml](images/Mubarak-uml.jpg)  
+Displays object-oriented structure of the proposed system with classes and relationships.
+
+#### 7. UML Sequence Diagram
+![Sequence](images/Sequence.jpg)  
+Depicts the sequence of operations and interactions between system components.
+
+
+---
+
 ### 🧭 Project Outcome
 This project demonstrates the full scope of Business Analysis activities — from requirement gathering and stakeholder mapping to process modeling and digital solution design.  
 It highlights practical problem-solving skills applied to a **real business**, showcasing the ability to transform manual operations into a structured, data-driven system.
